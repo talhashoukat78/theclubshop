@@ -158,7 +158,7 @@ export default function About() {
           >
             <h2 className="text-3xl font-bold text-black mb-8" style={{textShadow: '1px 1px 2px rgba(255,255,255,0.8), -1px -1px 2px rgba(255,255,255,0.8), 1px -1px 2px rgba(255,255,255,0.8), -1px 1px 2px rgba(255,255,255,0.8)'}}>Our Mission</h2>
             <p className="text-lg text-black leading-relaxed mb-8" style={{textShadow: '1px 1px 2px rgba(255,255,255,0.8), -1px -1px 2px rgba(255,255,255,0.8), 1px -1px 2px rgba(255,255,255,0.8), -1px 1px 2px rgba(255,255,255,0.8)'}}>
-              At The Club Shop, we believe that every local football club deserves access to high-quality merchandise that represents their unique identity. We're committed to providing affordable, premium teamwear that helps clubs build their brand and connect with their community.
+              At The Club Shop, we believe that every local football club deserves access to high-quality merchandise that represents their unique identity. We&apos;re committed to providing affordable, premium teamwear that helps clubs build their brand and connect with their community.
             </p>
             <motion.div
               whileHover={{ scale: 1.05 }}
