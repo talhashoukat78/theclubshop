@@ -6,6 +6,7 @@ import { motion } from 'framer-motion';
 
 export default function NewProductPage() {
   const router = useRouter();
+  const [loading, setLoading] = useState(false);
   
   const [formData, setFormData] = useState({
     name: '',
