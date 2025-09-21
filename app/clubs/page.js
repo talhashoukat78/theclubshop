@@ -247,7 +247,7 @@ export default function Clubs() {
           >
             <h2 className="text-3xl font-bold mb-6">Want to Partner With Us?</h2>
             <p className="text-xl text-green-100 mb-8 max-w-2xl mx-auto">
-              Are you a local football club looking for quality teamwear? We'd love to hear from you and discuss how we can support your club.
+              Are you a local football club looking for quality teamwear? We&apos;d love to hear from you and discuss how we can support your club.
             </p>
             <motion.a
               whileHover={{ scale: 1.05 }}

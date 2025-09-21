@@ -208,7 +208,7 @@ export default function TeamKits() {
           >
             <h2 className="text-3xl font-bold mb-6 text-black" style={{textShadow: '2px 2px 4px rgba(255,255,255,0.8), -2px -2px 4px rgba(255,255,255,0.8), 2px -2px 4px rgba(255,255,255,0.8), -2px 2px 4px rgba(255,255,255,0.8)'}}>Ready to Kit Out Your Team?</h2>
             <p className="text-xl text-black mb-8 max-w-2xl mx-auto" style={{textShadow: '1px 1px 2px rgba(255,255,255,0.8), -1px -1px 2px rgba(255,255,255,0.8), 1px -1px 2px rgba(255,255,255,0.8), -1px 1px 2px rgba(255,255,255,0.8)'}}>
-              Contact us today to discuss your team's kit requirements and get a custom quote.
+              Contact us today to discuss your team&apos;s kit requirements and get a custom quote.
             </p>
             <div className="flex gap-4 justify-center flex-col sm:flex-row">
               <motion.a

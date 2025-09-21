@@ -176,7 +176,7 @@ export default function Home() {
               Why Choose TheClubShop?
             </h2>
             <p className="text-2xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-              We're not just another sports retailer. We're your gateway to authentic football culture, 
+              We&apos;re not just another sports retailer. We&apos;re your gateway to authentic football culture, 
               premium quality, and unmatched community support.
             </p>
           </div>
@@ -207,7 +207,7 @@ export default function Home() {
                 <h3 className="text-3xl font-bold mb-6 text-gray-800">Lightning Fast</h3>
                 <p className="text-gray-600 leading-relaxed text-lg">
                   Get your gear when you need it. Same-day processing, next-day delivery available, 
-                  and free shipping on orders over £50. Your team spirit can't wait!
+                  and free shipping on orders over £50. Your team spirit can&apos;t wait!
                 </p>
               </div>
             </div>
@@ -233,7 +233,7 @@ export default function Home() {
             <div>
               <h3 className="text-4xl font-bold text-gradient mb-8">Supporting Local Football</h3>
               <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-                We're proud to support local football clubs in our community. Every purchase helps fund 
+                We&apos;re proud to support local football clubs in our community. Every purchase helps fund 
                 youth development, facility improvements, and keeps the beautiful game alive in our area.
               </p>
               <div className="space-y-6">
